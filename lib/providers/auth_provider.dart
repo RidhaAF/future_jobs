@@ -16,7 +16,7 @@ class AuthProvider with ChangeNotifier {
       };
 
       var response = await http.post(
-        Uri.parse('https:bwa-jobs.herokuapp.com/register'),
+        Uri.parse('https://bwa-jobs.herokuapp.com/register'),
         body: body,
       );
 
