@@ -162,21 +162,6 @@ class HomePage extends StatelessWidget {
                 );
               },
             ),
-            // JobTile(
-            //   companyLogo: 'assets/icon_google.png',
-            //   name: 'Front-End Developer',
-            //   companyName: 'Google',
-            // ),
-            // JobTile(
-            //   companyLogo: 'assets/icon_instagram.png',
-            //   name: 'UI Designer',
-            //   companyName: 'Instagram',
-            // ),
-            // JobTile(
-            //   companyLogo: 'assets/icon_facebook.png',
-            //   name: 'Data Scientist',
-            //   companyName: 'Facebook',
-            // ),
           ],
         ),
       );
